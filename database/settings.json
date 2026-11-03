@@ -1,0 +1,280 @@
+[
+ {
+  "_id": "6ae74c97339fa0c545d84097",
+  "at": "2026-11-01T14:28:39.841110+00:00",
+  "key": "roles_v2"
+ },
+ {
+  "_id": "6adae6c0a180ee2e747378b0",
+  "key": "main",
+  "theme": {
+   "nav": "#2563EB",
+   "accent": "#F59E0B",
+   "primary": "#0F2942",
+   "sidebar": "#0B1E33"
+  },
+  "survey": {
+   "items": [],
+   "title": "Survei Kepuasan Masyarakat",
+   "updated_at": "2026-11-02T15:38:33.099616+00:00",
+   "description": "Bantu kami meningkatkan layanan LMS Khidmat Kota Dumai dengan mengisi survei singkat berikut.",
+   "show_in_footer": true
+  },
+  "landing": {
+   "goal": "[Tujuan platform. Ubah di menu Konten Login.]",
+   "steps": [
+    "Masuk dengan NIP/email",
+    "Pilih pelatihan atau webinar zoom",
+    "Selesaikan materi, kuis & evaluasi",
+    "Unduh sertifikat & pantau JP"
+   ],
+   "social": {
+    "website": "bkpsdm.dumaikota.go.id",
+    "facebook": "",
+    "instagram": "https://instagram.com/bkpsdmdumai"
+   },
+   "concept": "[Konsep platform. Ubah di menu Konten Login.]",
+   "about_us": "[Penjelasan singkat tentang LMS Khidmat Kota Dumai dan BKPSDM Kota Dumai. Ubah di menu Konten Login.]",
+   "features": [
+    {
+     "text": "Materi video, PDF, dan teks yang bisa dipelajari kapan saja, diakhiri kuis evaluasi.",
+     "title": "Pelatihan Mandiri"
+    },
+    {
+     "text": "Webinar terjadwal dengan pengingat otomatis di aplikasi dan evaluasi wajib setelah selesai.",
+     "title": "Webinar Zoom"
+    },
+    {
+     "text": "Sertifikat seragam dengan penandatangan yang dipilih untuk tiap kegiatan dan penomoran khusus.",
+     "title": "Sertifikat Resmi"
+    },
+    {
+     "text": "Pindai kode QR atau masukkan nomor sertifikat untuk memastikan keasliannya.",
+     "title": "Cek Keaslian Sertifikat"
+    },
+    {
+     "text": "Kenali gaya kerja Anda lewat tes kepribadian lengkap dengan grafik dan skor tiap dimensi.",
+     "title": "Tes Kepribadian"
+    },
+    {
+     "text": "Rekap Jam Pelajaran bulanan per pegawai dan per OPD, dapat diunduh PDF atau Excel.",
+     "title": "Laporan JP"
+    },
+    {
+     "text": "Bacaan, dokumen, dan video pengetahuan yang dibagikan antar-pegawai.",
+     "title": "Perpustakaan KMS"
+    },
+    {
+     "text": "Setiap OPD memiliki satu akun PIC untuk mengusulkan materi pelatihan dan webinar.",
+     "title": "Usulan PIC OPD"
+    }
+   ],
+   "kms_text": "Pegawai dapat membaca, mengunduh, dan menonton bahan pengetahuan. PIC OPD dapat mengusulkan bacaan baru yang ditinjau admin sebelum terbit.",
+   "help_text": "Lupa kata sandi, akun terkunci, atau data akun tidak sesuai? Kirim laporan ke administrator BKPSDM.",
+   "kms_image": "/img/k1.jpg",
+   "kms_title": "Perpustakaan pengetahuan bersama",
+   "officials": [
+    {
+     "name": "H. Paisal, SKM., MARS",
+     "photo": "lms-khidmat-dumai/public/c1f164ad-5d63-47fb-add3-f35b52558f37.png",
+     "title": "Wali Kota Dumai"
+    },
+    {
+     "name": "Sugiyarto, S.E",
+     "photo": "lms-khidmat-dumai/public/98506f9d-d23f-4f03-b5b6-95324e36ac3c.png",
+     "title": "Wakil Wali Kota Dumai"
+    },
+    {
+     "name": "Fahmi Rizal, S.STP.,M.Si",
+     "photo": "lms-khidmat-dumai/public/9d7552e9-d534-4859-95eb-49b8a3670653.png",
+     "title": "Sekretaris Daerah Kota Dumai"
+    },
+    {
+     "name": "H. Erinasrizal, S.Sos.,M.Si",
+     "photo": "lms-khidmat-dumai/public/5e228273-3e79-4791-a002-7ca0021f2ad1.png",
+     "title": "Kepala BKPSDM Kota Dumai"
+    }
+   ],
+   "zoom_text": "Admin LMS dan PIC OPD menjadwalkan webinar zoom. Pegawai mendaftar, mendapat pengingat sebelum mulai, mengisi evaluasi setelah selesai, lalu mengunduh sertifikat.",
+   "about_text": "Platform ini membantu aparatur Pemerintah Kota Dumai meningkatkan kompetensi melalui pelatihan daring, webinar, berbagi pengetahuan, tes kepribadian, dan sertifikat yang tercatat rapi.",
+   "kms_points": [
+    "Dokumen PDF, Word, dan PowerPoint",
+    "Video unggahan atau tautan YouTube",
+    "Persetujuan admin untuk setiap usulan"
+   ],
+   "zoom_image": "/img/c3.jpg",
+   "zoom_title": "Belajar langsung bersama narasumber",
+   "legal_basis": [
+    "[Dasar hukum 1]",
+    "[Dasar hukum 2]"
+   ],
+   "zoom_points": [
+    "Jadwal, narasumber, dan tautan zoom dalam satu halaman",
+    "Materi PPTX/PDF webinar dapat diunduh peserta",
+    "Evaluasi webinar wajib sebelum sertifikat terbuka"
+   ],
+   "cover_slides": [
+    "lms-khidmat-dumai/public/88de3a38-3e4c-429c-b820-bebac61ad08a.png"
+   ],
+   "welcome_title": "Sambutan Pimpinan Daerah",
+   "about_us_title": "LMS Khidmat Kota Dumai",
+   "slide_interval": 5,
+   "welcome_speech": "[Kata sambutan pimpinan daerah. Teks ini dapat diubah Super Admin di menu Konten Login.]"
+  },
+  "signers": [
+   {
+    "id": "4ead3c66-dab4-4efe-beb1-155c238bdb8a",
+    "nip": "196712271990021003",
+    "name": "H.Erinasrizal, S.Sos.,M.Si",
+    "title": "Kepala BKPSDM Kota Dumai",
+    "pangkat": "Pembina Utama Muda",
+    "signature_path": ""
+   }
+  ],
+  "tagline": "Learning & Knowledge Management System Aparatur Pemerintah Kota Dumai",
+  "app_name": "E-Learning Khidmat Kota Dumai",
+  "logo_path": "lms-khidmat-dumai/public/1f23199d-c3a6-4026-ba18-9d879e4a1f71.png",
+  "cover_path": "lms-khidmat-dumai/public/88de3a38-3e4c-429c-b820-bebac61ad08a.png",
+  "cert_layout": {
+   "logos": [
+    {
+     "w": 5,
+     "x": 46.9,
+     "y": 8.6,
+     "path": "lms-khidmat-dumai/public/f91dd7ee-0301-482e-bd41-9f9ca83edac5.png"
+    },
+    {
+     "w": 7,
+     "x": 53.1,
+     "y": 8.3,
+     "path": "lms-khidmat-dumai/public/0a0c2d0c-a2d5-4d6a-aa02-cc614a6df5ae.png"
+    }
+   ],
+   "elements": {
+    "qr": {
+     "x": 92,
+     "y": 89.2,
+     "show": true,
+     "size": 70
+    },
+    "nip": {
+     "x": 50,
+     "y": 54,
+     "bold": false,
+     "show": true,
+     "size": 12
+    },
+    "name": {
+     "x": 50,
+     "y": 49,
+     "bold": true,
+     "show": true,
+     "size": 29
+    },
+    "given": {
+     "x": 50,
+     "y": 42,
+     "bold": false,
+     "show": true,
+     "size": 13,
+     "text": "Diberikan kepada"
+    },
+    "title": {
+     "x": 50.1,
+     "y": 28.3,
+     "bold": true,
+     "show": true,
+     "size": 38,
+     "text": "SERTIFIKAT"
+    },
+    "course": {
+     "x": 50,
+     "y": 63.6,
+     "bold": true,
+     "show": true,
+     "size": 18
+    },
+    "header": {
+     "x": 50,
+     "y": 18,
+     "bold": true,
+     "show": true,
+     "size": 14,
+     "text": "BKPSDM KOTA DUMAI"
+    },
+    "number": {
+     "x": 50,
+     "y": 36,
+     "bold": false,
+     "show": true,
+     "size": 11
+    },
+    "result": {
+     "x": 49.9,
+     "y": 68.8,
+     "bold": false,
+     "show": true,
+     "size": 12
+    },
+    "signer": {
+     "x": 50.1,
+     "y": 74,
+     "bold": false,
+     "show": true,
+     "size": 13
+    },
+    "activity": {
+     "x": 50,
+     "y": 58.6,
+     "bold": false,
+     "show": true,
+     "size": 13
+    },
+    "subheader": {
+     "x": 50,
+     "y": 22,
+     "bold": false,
+     "show": true,
+     "size": 11,
+     "text": ""
+    }
+   },
+   "text_color": "#0F172A",
+   "font_family": "Helvetica",
+   "accent_color": "#0F2942",
+   "custom_texts": [],
+   "template_path": "lms-khidmat-dumai/public/f1122f7a-9e74-408b-9cc3-d3edfe1fb204.png"
+  },
+  "signer_name": "H.Erinasrizal, S.Sos.,M.Si",
+  "announcement": "Selamat datang di LMS Khidmat Kota Dumai. Ikuti pelatihan dan raih sertifikat Anda.",
+  "signer_title": "Kepala BKPSDM Kota Dumai",
+  "eval_questions": [
+   {
+    "id": "q1",
+    "text": "Materi webinar sesuai dengan kebutuhan pekerjaan saya",
+    "type": "rating",
+    "required": true
+   },
+   {
+    "id": "q2",
+    "text": "Narasumber menyampaikan materi dengan jelas",
+    "type": "rating",
+    "required": true
+   },
+   {
+    "id": "q3",
+    "text": "Kualitas audio, video, dan jalannya webinar baik",
+    "type": "rating",
+    "required": true
+   },
+   {
+    "id": "q4",
+    "text": "Saran dan masukan untuk webinar berikutnya",
+    "type": "text",
+    "required": false
+   }
+  ],
+  "signature_path": "",
+  "welcome_logo_path": "lms-khidmat-dumai/public/1f41b3b6-20e0-46aa-a64c-538090ced316.png"
+ }
+]

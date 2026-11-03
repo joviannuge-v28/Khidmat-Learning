@@ -1,0 +1,62 @@
+[
+ {
+  "_id": "6ae7508ebfe880895a2e6903",
+  "by": "Sistem",
+  "id": "e5b3adc4-97bd-448e-92d2-aa73c29dcc17",
+  "name": "backup-otomatis-2026-11-01-144533.zip",
+  "path": "lms-khidmat-dumai/backups/backup-otomatis-2026-11-01-144533.zip",
+  "size": 6234791,
+  "files": 16,
+  "trigger": "otomatis",
+  "created_at": "2026-11-01T14:45:34.107408+00:00",
+  "collections": 17
+ },
+ {
+  "_id": "6ae752bcd2c274ff4ee3d930",
+  "by": "Administrator LMS",
+  "id": "75258c73-9cbe-43aa-baaa-388e169cd2d5",
+  "name": "backup-manual-2026-11-01-145452.zip",
+  "path": "lms-khidmat-dumai/backups/backup-manual-2026-11-01-145452.zip",
+  "size": 6235989,
+  "files": 16,
+  "trigger": "manual",
+  "created_at": "2026-11-01T14:54:52.902147+00:00",
+  "collections": 17
+ },
+ {
+  "_id": "6ae752d5d2c274ff4ee3d977",
+  "by": "Administrator LMS",
+  "id": "305e84a0-9e2a-4630-80e1-f9942b857d10",
+  "name": "backup-manual-2026-11-01-145517.zip",
+  "path": "lms-khidmat-dumai/backups/backup-manual-2026-11-01-145517.zip",
+  "size": 6242175,
+  "files": 20,
+  "trigger": "manual",
+  "created_at": "2026-11-01T14:55:17.658053+00:00",
+  "collections": 17
+ },
+ {
+  "_id": "6ae7546a252b58492bfca424",
+  "by": "Administrator LMS",
+  "id": "af36bb2b-a2ca-4148-aec0-498b5fc4d129",
+  "name": "backup-manual-2026-11-01-150202.zip",
+  "path": "lms-khidmat-dumai/backups/backup-manual-2026-11-01-150202.zip",
+  "size": 6247306,
+  "files": 25,
+  "trigger": "manual",
+  "created_at": "2026-11-01T15:02:02.826998+00:00",
+  "collections": 17
+ },
+ {
+  "_id": "6ae7507cbfe880895a2e6901",
+  "by": "Administrator LMS",
+  "id": "79369a95-ab2b-4729-a454-0307927d5445",
+  "name": "backup-manual-2026-11-01-144515.zip",
+  "path": "lms-khidmat-dumai/backups/backup-manual-2026-11-01-144515.zip",
+  "size": 6234120,
+  "files": 16,
+  "trigger": "manual",
+  "created_at": "2026-11-01T14:45:16.344728+00:00",
+  "collections": 15
+ }
+]

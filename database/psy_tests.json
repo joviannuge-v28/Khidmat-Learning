@@ -1,0 +1,334 @@
+[
+ {
+  "_id": "6ae04bc6f2b5c4544832c006",
+  "id": "ac989baa-2ea8-4610-97e6-a721e4c2b3f3",
+  "title": "Tes Gaya Kerja ASN (Contoh)",
+  "published": true,
+  "questions": [
+   {
+    "id": "e354ed08-5322-4d25-948a-96e9b60470e5",
+    "text": "Saya memeriksa ulang pekerjaan sebelum menyerahkannya.",
+    "options": [
+     {
+      "text": "Sangat Tidak Setuju",
+      "scores": {
+       "9c2c8bb3-9c4c-4464-8135-e0a5306a22f1": 1
+      }
+     },
+     {
+      "text": "Tidak Setuju",
+      "scores": {
+       "9c2c8bb3-9c4c-4464-8135-e0a5306a22f1": 2
+      }
+     },
+     {
+      "text": "Netral",
+      "scores": {
+       "9c2c8bb3-9c4c-4464-8135-e0a5306a22f1": 3
+      }
+     },
+     {
+      "text": "Setuju",
+      "scores": {
+       "9c2c8bb3-9c4c-4464-8135-e0a5306a22f1": 4
+      }
+     },
+     {
+      "text": "Sangat Setuju",
+      "scores": {
+       "9c2c8bb3-9c4c-4464-8135-e0a5306a22f1": 5
+      }
+     }
+    ]
+   },
+   {
+    "id": "2fe691bd-ad41-4539-a03f-f9dbad40147d",
+    "text": "Saya mencatat detail tugas dengan rapi.",
+    "options": [
+     {
+      "text": "Sangat Tidak Setuju",
+      "scores": {
+       "9c2c8bb3-9c4c-4464-8135-e0a5306a22f1": 1
+      }
+     },
+     {
+      "text": "Tidak Setuju",
+      "scores": {
+       "9c2c8bb3-9c4c-4464-8135-e0a5306a22f1": 2
+      }
+     },
+     {
+      "text": "Netral",
+      "scores": {
+       "9c2c8bb3-9c4c-4464-8135-e0a5306a22f1": 3
+      }
+     },
+     {
+      "text": "Setuju",
+      "scores": {
+       "9c2c8bb3-9c4c-4464-8135-e0a5306a22f1": 4
+      }
+     },
+     {
+      "text": "Sangat Setuju",
+      "scores": {
+       "9c2c8bb3-9c4c-4464-8135-e0a5306a22f1": 5
+      }
+     }
+    ]
+   },
+   {
+    "id": "970889d5-f573-4974-b084-fe66be46bfea",
+    "text": "Saya senang bekerja sama dalam tim lintas bidang.",
+    "options": [
+     {
+      "text": "Sangat Tidak Setuju",
+      "scores": {
+       "d0108d96-a956-4e9d-9b39-ee7fea89d69a": 1
+      }
+     },
+     {
+      "text": "Tidak Setuju",
+      "scores": {
+       "d0108d96-a956-4e9d-9b39-ee7fea89d69a": 2
+      }
+     },
+     {
+      "text": "Netral",
+      "scores": {
+       "d0108d96-a956-4e9d-9b39-ee7fea89d69a": 3
+      }
+     },
+     {
+      "text": "Setuju",
+      "scores": {
+       "d0108d96-a956-4e9d-9b39-ee7fea89d69a": 4
+      }
+     },
+     {
+      "text": "Sangat Setuju",
+      "scores": {
+       "d0108d96-a956-4e9d-9b39-ee7fea89d69a": 5
+      }
+     }
+    ]
+   },
+   {
+    "id": "6ca5b7bd-6abd-4c91-9893-e558334c15f1",
+    "text": "Saya mudah membantu rekan yang kesulitan.",
+    "options": [
+     {
+      "text": "Sangat Tidak Setuju",
+      "scores": {
+       "d0108d96-a956-4e9d-9b39-ee7fea89d69a": 1
+      }
+     },
+     {
+      "text": "Tidak Setuju",
+      "scores": {
+       "d0108d96-a956-4e9d-9b39-ee7fea89d69a": 2
+      }
+     },
+     {
+      "text": "Netral",
+      "scores": {
+       "d0108d96-a956-4e9d-9b39-ee7fea89d69a": 3
+      }
+     },
+     {
+      "text": "Setuju",
+      "scores": {
+       "d0108d96-a956-4e9d-9b39-ee7fea89d69a": 4
+      }
+     },
+     {
+      "text": "Sangat Setuju",
+      "scores": {
+       "d0108d96-a956-4e9d-9b39-ee7fea89d69a": 5
+      }
+     }
+    ]
+   },
+   {
+    "id": "bccea660-36b6-4f63-8f59-ba3da09adb17",
+    "text": "Saya mengusulkan perbaikan tanpa menunggu diminta.",
+    "options": [
+     {
+      "text": "Sangat Tidak Setuju",
+      "scores": {
+       "f0c98a2c-fa0c-426d-ad87-e5ab4f1e650b": 1
+      }
+     },
+     {
+      "text": "Tidak Setuju",
+      "scores": {
+       "f0c98a2c-fa0c-426d-ad87-e5ab4f1e650b": 2
+      }
+     },
+     {
+      "text": "Netral",
+      "scores": {
+       "f0c98a2c-fa0c-426d-ad87-e5ab4f1e650b": 3
+      }
+     },
+     {
+      "text": "Setuju",
+      "scores": {
+       "f0c98a2c-fa0c-426d-ad87-e5ab4f1e650b": 4
+      }
+     },
+     {
+      "text": "Sangat Setuju",
+      "scores": {
+       "f0c98a2c-fa0c-426d-ad87-e5ab4f1e650b": 5
+      }
+     }
+    ]
+   },
+   {
+    "id": "b97ceb04-7851-487c-992b-e1b0a7c65239",
+    "text": "Saya cepat memulai pekerjaan baru.",
+    "options": [
+     {
+      "text": "Sangat Tidak Setuju",
+      "scores": {
+       "f0c98a2c-fa0c-426d-ad87-e5ab4f1e650b": 1
+      }
+     },
+     {
+      "text": "Tidak Setuju",
+      "scores": {
+       "f0c98a2c-fa0c-426d-ad87-e5ab4f1e650b": 2
+      }
+     },
+     {
+      "text": "Netral",
+      "scores": {
+       "f0c98a2c-fa0c-426d-ad87-e5ab4f1e650b": 3
+      }
+     },
+     {
+      "text": "Setuju",
+      "scores": {
+       "f0c98a2c-fa0c-426d-ad87-e5ab4f1e650b": 4
+      }
+     },
+     {
+      "text": "Sangat Setuju",
+      "scores": {
+       "f0c98a2c-fa0c-426d-ad87-e5ab4f1e650b": 5
+      }
+     }
+    ]
+   },
+   {
+    "id": "b1234961-08c8-462a-94b3-06b1a0549ae4",
+    "text": "Saya tetap tenang saat tenggat waktu mendesak.",
+    "options": [
+     {
+      "text": "Sangat Tidak Setuju",
+      "scores": {
+       "4e2f92da-395f-4e62-85ab-deacc178b788": 1
+      }
+     },
+     {
+      "text": "Tidak Setuju",
+      "scores": {
+       "4e2f92da-395f-4e62-85ab-deacc178b788": 2
+      }
+     },
+     {
+      "text": "Netral",
+      "scores": {
+       "4e2f92da-395f-4e62-85ab-deacc178b788": 3
+      }
+     },
+     {
+      "text": "Setuju",
+      "scores": {
+       "4e2f92da-395f-4e62-85ab-deacc178b788": 4
+      }
+     },
+     {
+      "text": "Sangat Setuju",
+      "scores": {
+       "4e2f92da-395f-4e62-85ab-deacc178b788": 5
+      }
+     }
+    ]
+   },
+   {
+    "id": "d455b0de-cf22-45ca-8cf2-7ce3f17377f3",
+    "text": "Saya mampu bangkit setelah menghadapi kegagalan.",
+    "options": [
+     {
+      "text": "Sangat Tidak Setuju",
+      "scores": {
+       "4e2f92da-395f-4e62-85ab-deacc178b788": 1
+      }
+     },
+     {
+      "text": "Tidak Setuju",
+      "scores": {
+       "4e2f92da-395f-4e62-85ab-deacc178b788": 2
+      }
+     },
+     {
+      "text": "Netral",
+      "scores": {
+       "4e2f92da-395f-4e62-85ab-deacc178b788": 3
+      }
+     },
+     {
+      "text": "Setuju",
+      "scores": {
+       "4e2f92da-395f-4e62-85ab-deacc178b788": 4
+      }
+     },
+     {
+      "text": "Sangat Setuju",
+      "scores": {
+       "4e2f92da-395f-4e62-85ab-deacc178b788": 5
+      }
+     }
+    ]
+   }
+  ],
+  "created_at": "2026-10-27T06:59:18.919688+00:00",
+  "dimensions": [
+   {
+    "id": "9c2c8bb3-9c4c-4464-8135-e0a5306a22f1",
+    "name": "Ketelitian",
+    "color": "#2563EB",
+    "low_text": "Ketelitian Anda masih dapat dikembangkan.",
+    "mid_text": "Ketelitian Anda cukup baik dan stabil.",
+    "high_text": "Ketelitian Anda menonjol dan menjadi kekuatan kerja."
+   },
+   {
+    "id": "d0108d96-a956-4e9d-9b39-ee7fea89d69a",
+    "name": "Kolaborasi",
+    "color": "#059669",
+    "low_text": "Kolaborasi Anda masih dapat dikembangkan.",
+    "mid_text": "Kolaborasi Anda cukup baik dan stabil.",
+    "high_text": "Kolaborasi Anda menonjol dan menjadi kekuatan kerja."
+   },
+   {
+    "id": "f0c98a2c-fa0c-426d-ad87-e5ab4f1e650b",
+    "name": "Inisiatif",
+    "color": "#D97706",
+    "low_text": "Inisiatif Anda masih dapat dikembangkan.",
+    "mid_text": "Inisiatif Anda cukup baik dan stabil.",
+    "high_text": "Inisiatif Anda menonjol dan menjadi kekuatan kerja."
+   },
+   {
+    "id": "4e2f92da-395f-4e62-85ab-deacc178b788",
+    "name": "Ketahanan Stres",
+    "color": "#DB2777",
+    "low_text": "Ketahanan Stres Anda masih dapat dikembangkan.",
+    "mid_text": "Ketahanan Stres Anda cukup baik dan stabil.",
+    "high_text": "Ketahanan Stres Anda menonjol dan menjadi kekuatan kerja."
+   }
+  ],
+  "description": "Tes contoh untuk mengenali gaya kerja Anda. Soal, dimensi, dan skor dapat diubah admin."
+ }
+]

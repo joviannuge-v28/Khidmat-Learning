@@ -1,0 +1,14 @@
+[
+ {
+  "_id": "6ae759e19cb902e970257e4d",
+  "key": "main",
+  "host": "server201.extremhost.net",
+  "port": 465,
+  "enabled": false,
+  "password": "Wb•••••••!1",
+  "security": "ssl",
+  "username": "wbs@dumaikota.go.id",
+  "from_name": "WBS Pemerintah Kota Dumai",
+  "from_email": "wbs@dumaikota.go.id"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "_id": "6ae75493252b58492bfca42e",
+  "id": "a3a3ec39-d0aa-437b-b950-4c3d57bbd231",
+  "name": "Artikel",
+  "type": "kms",
+  "created_at": "2026-10-23T04:46:56.389781+00:00"
+ },
+ {
+  "_id": "6ae75493252b58492bfca42f",
+  "id": "4596b45f-f28b-42a1-a9e3-80a3d56692f9",
+  "name": "Manajemen ASN",
+  "type": "course",
+  "created_at": "2026-10-23T04:46:56.347814+00:00"
+ },
+ {
+  "_id": "6ae75493252b58492bfca430",
+  "id": "7d4791cd-67fa-470e-8205-f0232cdd5d7e",
+  "name": "Panduan Teknis",
+  "type": "kms",
+  "created_at": "2026-10-23T04:46:56.389569+00:00"
+ },
+ {
+  "_id": "6ae75493252b58492bfca431",
+  "id": "699ebdd8-9c18-4895-a74c-fea59a2fccba",
+  "name": "Pelayanan Publik",
+  "type": "course",
+  "created_at": "2026-10-23T04:46:56.388721+00:00"
+ },
+ {
+  "_id": "6ae75493252b58492bfca432",
+  "id": "4352a206-d40e-4f26-9873-d568e0ec5158",
+  "name": "Regulasi",
+  "type": "kms",
+  "created_at": "2026-10-23T04:46:56.389357+00:00"
+ },
+ {
+  "_id": "6ae75493252b58492bfca433",
+  "id": "e3713d88-e262-4a7e-a04c-d00851f4dbb1",
+  "name": "Transformasi Digital",
+  "type": "course",
+  "created_at": "2026-10-23T04:46:56.389128+00:00"
+ }
+]

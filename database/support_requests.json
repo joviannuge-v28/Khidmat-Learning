@@ -1,0 +1,30 @@
+[
+ {
+  "_id": "6ae05da73528de4e11427277",
+  "id": "41a68970-c04a-43a4-8057-015f1bfe2660",
+  "ip": "34.36.184.211",
+  "nip": "198105212010011012",
+  "name": "Idham Bachtiar",
+  "status": "done",
+  "contact": "idhambbb@gmail.com",
+  "message": "Mohon bantuan reset kata sandi akun saya.",
+  "category": "Lupa kata sandi",
+  "admin_note": "",
+  "created_at": "2026-10-27T08:15:35.455749+00:00",
+  "updated_at": "2026-10-27T08:18:29.974026+00:00"
+ },
+ {
+  "_id": "6ae752fdd2c274ff4ee3d98c",
+  "id": "1718c192-62b4-471b-bd93-4676e71658dd",
+  "ip": "35.186.245.91",
+  "nip": "",
+  "name": "TEST_UI lapor",
+  "status": "new",
+  "contact": "",
+  "message": "Tolong bantu reset",
+  "category": "Lupa kata sandi",
+  "whatsapp": "081234567890",
+  "admin_note": "",
+  "created_at": "2026-11-01T14:55:57.696495+00:00"
+ }
+]
