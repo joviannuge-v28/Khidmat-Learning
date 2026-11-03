@@ -1,0 +1,17 @@
+fastapi==0.110.1
+starlette==0.37.2
+uvicorn==0.25.0
+watchfiles==1.3.0
+python-dotenv==1.2.4
+asyncpg==0.32.0
+pydantic==2.14.1
+pydantic_core==2.50.1
+bcrypt==4.1.3
+PyJWT==2.15.1
+requests==2.34.2
+python-multipart==0.0.32
+reportlab==5.1.0
+qrcode==8.2
+pillow==13.0.0
+openpyxl==3.1.5
+pymongo==4.18.2
